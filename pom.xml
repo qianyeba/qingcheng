@@ -16,7 +16,6 @@
         <module>qingcheng_service_goods</module>
         <module>qingcheng_web_manager</module>
     </modules>
-
     <packaging>pom</packaging>
     <!-- 集中定义依赖版本号 -->
     <properties>
@@ -276,6 +275,5 @@
             </plugin>
         </plugins>
     </build>
-
 
 </project>
